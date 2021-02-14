@@ -11,6 +11,8 @@ The goal of this project is to analyse the messages of the 66DaysOfData discord 
 
 The discords messages were obtained using a bot developed by Thiago Rodrigues and described in this [article](https://levelup.gitconnected.com/how-to-gather-message-data-using-a-discord-bot-from-scratch-with-python-2fe239da3bcd).
 
+The analysis was performed with Python using Google Colaboratory.
+
 ## Results
 
 * At the time of the analysis, most users had posted between 1 and 10 messages in the progress channel. Some users are very active with
