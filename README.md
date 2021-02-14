@@ -1,4 +1,4 @@
-# Discord Server Message Analysis
+# Discord Server Messages Analysis
 
 ONGOING
 
